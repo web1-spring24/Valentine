@@ -1,0 +1,83 @@
+body {
+    background-color:bisque;
+    font-family: cursive;
+}
+
+img {
+    width: 200px;
+    
+}
+
+section {
+
+    background-color: lightcoral;
+    margin-inline: 10%;
+    text-align: center;
+    border-radius: 10px;
+    color: maroon;
+    border-width: 5px;
+    border-color: maroon;
+    border-style: dotted;
+}
+
+h1 {
+    font-size: 45px;
+    font-family: cursive;
+    margin: 0px;
+    line-height: 1.1;
+}
+
+
+em {
+    font-size: 100px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.css {
+    color: beige;
+}
+
+.html {
+    color: firebrick;
+}
+
+aside {
+    background-color: firebrick;
+    color: beige;
+    font-size: 20px;
+    border-radius: 10px;
+    margin: 80px 10px 10px 10px;
+    padding: 10px;
+}
+
+legend {
+    font-size: 24px;
+}
+
+fieldset {
+    border-style: dotted;
+    border-color: white;
+}
+
+input[type="radio"] {
+    height: 20px;
+    width: 20px;
+    accent-color: firebrick;
+}
+
+label {
+    margin-right: 20px; 
+}
+
+button {
+font-size: 20px;
+background-color: beige;
+color: firebrick;
+border: none;
+border-radius: 5px;
+padding: 10px 80px;
+margin: 20px;
+font-weight: bold;
+
+}
